@@ -1,13 +1,16 @@
-# 01 Edu Go Piscine
+# 01 Edu Go Pool
 
-Welcome to my repository for the 01 Edu Go Piscine. This repository contains all my solutions to the piscine exercises. These solutions are not perfect but can serve as a starting point to develop your own versions.
+> [!NOTE]
+> The repository is already available but the exercise files will not be pushed until September 23rd
+
+Welcome to my repository for the 01 Edu Go Pool. This repository contains all my solutions to the pool exercises. These solutions are not perfect but can serve as a starting point to develop your own versions.
 
 > [!IMPORTANT]
-> The repository is already available but the exercise files will not be pushed until September 23rd
+> This repository is published to help you advance in the pool if you are stuck (to guide you, to start a reflection), it is not at all made to be copied/pasted directly into your ide!
 
 ## Introduction
 
-The Go Piscine is a series of exercises designed to teach you the basics of the Go programming language. Each exercise aims to strengthen your understanding of different concepts and prepare you to write more complex Go programs.
+The Go Pool is a series of exercises designed to teach you the basics of the Go programming language. Each exercise aims to strengthen your understanding of different concepts and prepare you to write more complex Go programs.
 
 ## Exercices Structure
 
@@ -43,6 +46,10 @@ The Go Piscine is a series of exercises designed to teach you the basics of the 
 
     ```bash
     cd PiscineGo/exercice.go
+    ```
+    or
+    ```bash
+    cd PiscineGo/exercice/main.go
     ```
 
 ## Contributions
